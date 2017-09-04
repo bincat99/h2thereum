@@ -4,8 +4,9 @@
 ## index
 1. Understand Bitcoin
   * 1.1 What is Bitcoin?
-  * 1.2 What is mining?
-  * 1.3 What is process of Bitcoin transaction? (to be added)
+  * 1.2 Mining
+  * 1.3 Proof of Work
+  * 1.4 Process of Bitcoin transaction?
 
 ## 1. Understand Bitcoin
 ### 1.1 What is Bitcoin?
@@ -41,7 +42,7 @@ sha-256 hash 값의 앞 부분이 0으로 시작한다. 이처럼 특정한 데�
 ### 1.3 Proof of Work
 
 <br>
-### Process of Bitcoin transaction?
+### 1.4 Process of Bitcoin transaction?
 
 위의 1.2 까지 이해를 했다면 자연스럽게 의문이 생긴다.
   * Q1. 거래 내역은 어떻게 전달되고, 추가되는가?
@@ -66,6 +67,9 @@ sha-256 hash 값의 앞 부분이 0으로 시작한다. 이처럼 특정한 데�
 
 ## TO DO LIST
 
+1. PoW 항목 작성
+2. 작성한 항목 깔끔하게 다듬기
+3. 추가 항목 순서 구상
 
 ## Reference
 
